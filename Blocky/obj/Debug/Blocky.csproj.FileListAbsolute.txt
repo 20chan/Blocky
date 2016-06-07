@@ -1,0 +1,8 @@
+C:\C#\Blocky\Blocky\bin\Debug\Blocky.exe.config
+C:\C#\Blocky\Blocky\bin\Debug\Blocky.exe
+C:\C#\Blocky\Blocky\bin\Debug\Blocky.pdb
+C:\C#\Blocky\Blocky\obj\Debug\Blocky.csprojResolveAssemblyReference.cache
+C:\C#\Blocky\Blocky\obj\Debug\Blocky.exe
+C:\C#\Blocky\Blocky\obj\Debug\Blocky.pdb
+C:\C#\Blocky\Blocky\obj\Debug\Blocky.Blocks.Controls.cEntryBlock.resources
+C:\C#\Blocky\Blocky\obj\Debug\Blocky.csproj.GenerateResource.Cache
